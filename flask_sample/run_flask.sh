@@ -1,1 +1,1 @@
-python views.py
+python3 views.py
